@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/da29ed7185a39d9da77f33f26f9729e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06dcd012aed33f5a5c5545bcab850dfa/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/427e67a03ecb2f8fad6112122bf9ebdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/dd583243dfa1acf4c6b536ecf30e3bd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/378af62b38ee56e499c5705167a4d901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/16f7fae5cc64ab96278df03a382085e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/61e573b745fe9a22d7619dc1aef2f4bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9d1e158ad24fdfae38cda17bb12f3d2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b690d0ebb65630d6a4c54cad46ba3507/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9e6461eb4c5314ca9989dcdc4d0ca1c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0b3abc5e692738f33037c7aea3ea7de1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/79515fe1f42f5a403614a903a08b0faf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9e2835fe1942790efb2451befc9312cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fafbb056f0e9ae8ac308c96be91986f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fd8c7afe69cec13f499dc283464bf81a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2c1921d11fa8ab47e044f5d0067ec2d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b8078b5f1363d34914d22e218c474aac/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/236597aaad23efb7bad2fcccf307c73e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/99b288a54ef6de2802b41435758f91d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e465a6fdd6d1cb87ddd1c1d7265da05a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/72f4d3c0d24897b8895a70d23913f932/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/451cba493d6399e4f264740517612261/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/56dcc756263227fd12eb0352aa4fcccf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/33ee3deb61353fed427462ca7a17bd1a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/30477151d4ff9b216ba791abf7e5a77f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/10137f4d0a926a85cc0dd90f4e8f3b61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/02b8752c62ed9a478fba533e6fec56c3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06dcd012aed33f5a5c5545bcab850dfa/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06dcd012aed33f5a5c5545bcab850dfa/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2c1921d11fa8ab47e044f5d0067ec2d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2c1921d11fa8ab47e044f5d0067ec2d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b8078b5f1363d34914d22e218c474aac/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b8078b5f1363d34914d22e218c474aac/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2c1921d11fa8ab47e044f5d0067ec2d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.dialog.MainActivity
+ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/da29ed7185a39d9da77f33f26f9729e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/da29ed7185a39d9da77f33f26f9729e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06dcd012aed33f5a5c5545bcab850dfa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06dcd012aed33f5a5c5545bcab850dfa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/427e67a03ecb2f8fad6112122bf9ebdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/427e67a03ecb2f8fad6112122bf9ebdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/dd583243dfa1acf4c6b536ecf30e3bd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/dd583243dfa1acf4c6b536ecf30e3bd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/378af62b38ee56e499c5705167a4d901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/378af62b38ee56e499c5705167a4d901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/16f7fae5cc64ab96278df03a382085e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/16f7fae5cc64ab96278df03a382085e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/61e573b745fe9a22d7619dc1aef2f4bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/61e573b745fe9a22d7619dc1aef2f4bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9d1e158ad24fdfae38cda17bb12f3d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9d1e158ad24fdfae38cda17bb12f3d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b690d0ebb65630d6a4c54cad46ba3507/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b690d0ebb65630d6a4c54cad46ba3507/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9e6461eb4c5314ca9989dcdc4d0ca1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9e6461eb4c5314ca9989dcdc4d0ca1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0b3abc5e692738f33037c7aea3ea7de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0b3abc5e692738f33037c7aea3ea7de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/79515fe1f42f5a403614a903a08b0faf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/79515fe1f42f5a403614a903a08b0faf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9e2835fe1942790efb2451befc9312cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9e2835fe1942790efb2451befc9312cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fafbb056f0e9ae8ac308c96be91986f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fafbb056f0e9ae8ac308c96be91986f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fd8c7afe69cec13f499dc283464bf81a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fd8c7afe69cec13f499dc283464bf81a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2c1921d11fa8ab47e044f5d0067ec2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2c1921d11fa8ab47e044f5d0067ec2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b8078b5f1363d34914d22e218c474aac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b8078b5f1363d34914d22e218c474aac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/236597aaad23efb7bad2fcccf307c73e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/236597aaad23efb7bad2fcccf307c73e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/99b288a54ef6de2802b41435758f91d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/99b288a54ef6de2802b41435758f91d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e465a6fdd6d1cb87ddd1c1d7265da05a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e465a6fdd6d1cb87ddd1c1d7265da05a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/72f4d3c0d24897b8895a70d23913f932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/72f4d3c0d24897b8895a70d23913f932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/451cba493d6399e4f264740517612261/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/451cba493d6399e4f264740517612261/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/56dcc756263227fd12eb0352aa4fcccf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/56dcc756263227fd12eb0352aa4fcccf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/33ee3deb61353fed427462ca7a17bd1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/33ee3deb61353fed427462ca7a17bd1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/30477151d4ff9b216ba791abf7e5a77f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/30477151d4ff9b216ba791abf7e5a77f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/10137f4d0a926a85cc0dd90f4e8f3b61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/10137f4d0a926a85cc0dd90f4e8f3b61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/02b8752c62ed9a478fba533e6fec56c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Mac_Juan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/02b8752c62ed9a478fba533e6fec56c3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Mac_Juan/Desktop/Dialog investigacion/Dialog/app/src/main/AndroidManifest.xml

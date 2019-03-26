@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialog</string>
+
+    <string-array name="colors">
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Rosa</item>
+        <item>Púrpura</item>
+
+    </string-array>
+</resources>

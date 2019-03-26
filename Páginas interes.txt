@@ -1,0 +1,12 @@
+Ejemplo dialog sin Fragment:  https://stackoverflow.com/questions/4850493/open-a-dialog-when-i-click-a-button
+
+Tutorial personalizacion Dialog: https://www.youtube.com/watch?v=cGX_QWymFGA
+
+Tutorial Davis Dev Dialog: https://www.youtube.com/channel/UCd318NbKGE_mZe5DCi6Hk2Q/search?query=dialogs
+
+Ejemplo dialog sin Fragment 2: https://stackoverflow.com/questions/2115758/how-do-i-display-an-alert-dialog-on-android
+
+Explicacion Dialog: https://code.tutsplus.com/es/tutorials/android-user-interface-design-working-with-dialogs--mobile-7297
+
+
+Diferencias entre dialog y DialogFragment: http://www.flipandroid.com/ventajas-de-dialogfragment-sobre-alertdialog.html
